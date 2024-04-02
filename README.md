@@ -1,6 +1,8 @@
 # SGS-CarBooking
 
-## V 0.0.1 
+## V 0.0.1_Prod 
+### LOH + SOY + PHWE
+
 - Set up The car booking env + all the flows and Event registration Updates needed for CarB
 - Transferred work form Dev to Prod
   - Systemuser
@@ -12,3 +14,8 @@
     - Characteristics Inheritor (from Car to Driver)
     - Name setter (if not shuttle -> Name : FromLocation - ToLocation
     - Google Maps Duration Api Getter Flow (also gets Addresses)
+
+## V 0.0.2_Prod
+### LOH
+- Fixed Flow the duration multiplier (there was a type issue)
+- Minor Name Changes
