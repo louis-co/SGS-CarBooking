@@ -17,5 +17,5 @@
 
 ## V 0.0.2_Prod
 #### LOH
-- Fixed Flow the duration multiplier (there was a type issue)
-- Minor Name Changes
+- Fixed Flow the duration multiplier (there was a type issue) Flow in question: Google Maps Duration Api Getter Flow (also gets Addresses)
+- Minor Name Changes of flow: Google Maps Duration Api Getter Flow (also gets Addresses)
