@@ -1,7 +1,7 @@
 # SGS-CarBooking
 
 ## V 0.0.1_Prod 
-### LOH + SOY + PHWE
+#### LOH + SOY + PHWE
 
 - Set up The car booking env + all the flows and Event registration Updates needed for CarB
 - Transferred work form Dev to Prod
@@ -16,6 +16,6 @@
     - Google Maps Duration Api Getter Flow (also gets Addresses)
 
 ## V 0.0.2_Prod
-### LOH
+#### LOH
 - Fixed Flow the duration multiplier (there was a type issue)
 - Minor Name Changes
