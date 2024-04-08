@@ -19,3 +19,11 @@
 #### LOH
 - Fixed Flow the duration multiplier (there was a type issue) Flow in question: Google Maps Duration Api Getter Flow (also gets Addresses)
 - Minor Name Changes of flow: Google Maps Duration Api Getter Flow (also gets Addresses)
+
+## V 1.0.0.2_Prod (skipped)
+## V 1.0.0.3_Prod (skipped)
+
+## V 1.0.0.4_Prod
+#### LOH
+- Redid Changes in the duration inserter (the multiplier got deleted somehow)
+- Redid Changes in the forms getter so its ready for prod (unbekannter beifahrer is now also in prod) 
