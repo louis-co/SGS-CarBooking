@@ -27,3 +27,6 @@
 #### LOH
 - Redid Changes in the duration inserter (the multiplier got deleted somehow)
 - Redid Changes in the forms getter so its ready for prod (unbekannter beifahrer is now also in prod) 
+- Removed Forms flow from solution after import to be able to fix stuff in prod directly
+- Changed the fetch xml of contacts to ones that are registered in the symposium that has isCurrentSymposium eq true
+- 
